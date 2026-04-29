@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260429203508ZFDL16</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260429203508T4QL0X</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Proporciones en la vida diaria: directa e inversa</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777485365318</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>adecce89-5440-4899-aafb-ebe74a93dbf4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>NODO PRINCIPAL: DESCRIPCIÓN</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>NODO PRINCIPAL: DESCRIPCIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>NODO PRINCIPAL: DESCRIPCIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>adecce89-5440-4899-aafb-ebe74a93dbf4</odePageId>
+      <odeBlockId>block-1777485411122-ok9njjihn</odeBlockId>
+      <blockName>Descripción general de la situación de aprendizaje</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>adecce89-5440-4899-aafb-ebe74a93dbf4</odePageId>
+          <odeBlockId>block-1777485411122-ok9njjihn</odeBlockId>
+          <odeIdeviceId>idevice-1777485411119-uxw7sx9la</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado trabajará la proporcionalidad directa e inversa a través de situaciones cercanas a su vida cotidiana, como la compra de productos, el reparto de tareas y la organización del tiempo. Durante una sesión práctica, los estudiantes resolverán pequeños retos en grupo, elaborarán una infografía interactiva sobre los tipos de proporcionalidad y diseñarán un breve vídeo explicativo donde muestren ejemplos reales.</p>
+<p>La finalidad es que comprendan la diferencia entre proporcionalidad directa e inversa, sepan identificarlas y aplicarlas en problemas sencillos de la vida real.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777485411119-uxw7sx9la","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado trabajará la proporcionalidad directa e inversa a través de situaciones cercanas a su vida cotidiana, como la compra de productos, el reparto de tareas y la organización del tiempo. Durante una sesión práctica, los estudiantes resolverán pequeños retos en grupo, elaborarán una infografía interactiva sobre los tipos de proporcionalidad y diseñarán un breve vídeo explicativo donde muestren ejemplos reales.</p>\n<p>La finalidad es que comprendan la diferencia entre proporcionalidad directa e inversa, sepan identificarlas y aplicarlas en problemas sencillos de la vida real.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>adecce89-5440-4899-aafb-ebe74a93dbf4</odePageId>
+      <odeBlockId>block-1777485536425-3jtfdcenq</odeBlockId>
+      <blockName>Etapa educativa y nivel</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>adecce89-5440-4899-aafb-ebe74a93dbf4</odePageId>
+          <odeBlockId>block-1777485536425-3jtfdcenq</odeBlockId>
+          <odeIdeviceId>idevice-1777485536422-ioho38yq9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Etapa educativa: Educación Secundaria Obligatoria (ESO)<br />Nivel: 1º de ESO</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777485536422-ioho38yq9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Etapa educativa: Educación Secundaria Obligatoria (ESO)<br />Nivel: 1º de ESO</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>adecce89-5440-4899-aafb-ebe74a93dbf4</odePageId>
+      <odeBlockId>block-1777485611852-237wqttbf</odeBlockId>
+      <blockName>Áreas, materias y/o módulos implicados</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>adecce89-5440-4899-aafb-ebe74a93dbf4</odePageId>
+          <odeBlockId>block-1777485611852-237wqttbf</odeBlockId>
+          <odeIdeviceId>idevice-1777485611850-78ty9nix9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Matemáticas<br />Competencia digital<br />Aprender a aprender<br />Competencia en comunicación lingüística</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777485611850-78ty9nix9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Matemáticas<br />Competencia digital<br />Aprender a aprender<br />Competencia en comunicación lingüística</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>adecce89-5440-4899-aafb-ebe74a93dbf4</odePageId>
+      <odeBlockId>block-1777485982738-zivanv88c</odeBlockId>
+      <blockName>Agrupamientos y organización espacial</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>adecce89-5440-4899-aafb-ebe74a93dbf4</odePageId>
+          <odeBlockId>block-1777485982738-zivanv88c</odeBlockId>
+          <odeIdeviceId>idevice-1777485982737-4ozran8fw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se utilizarán varios tipos de agrupamiento siguiendo los principios del DUA:</p>
+<p>Gran grupo: explicación inicial y puesta en común<br />Parejas: resolución de ejercicios guiados<br />Pequeño grupo (3-4 alumnos): elaboración de la infografía y vídeo.<br />Trabajo individual: reflexión final</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777485982737-4ozran8fw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se utilizarán varios tipos de agrupamiento siguiendo los principios del DUA:</p>\n<p>Gran grupo: explicación inicial y puesta en común<br />Parejas: resolución de ejercicios guiados<br />Pequeño grupo (3-4 alumnos): elaboración de la infografía y vídeo.<br />Trabajo individual: reflexión final</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>adecce89-5440-4899-aafb-ebe74a93dbf4</odePageId>
+      <odeBlockId>block-1777486062067-1yu4ag0zk</odeBlockId>
+      <blockName>Organización espacial</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>adecce89-5440-4899-aafb-ebe74a93dbf4</odePageId>
+          <odeBlockId>block-1777486062067-1yu4ag0zk</odeBlockId>
+          <odeIdeviceId>idevice-1777486062064-92mbhtx09</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aula ordinaria<br />Distribución flexible de mesas en pequeños grupos</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777486062064-92mbhtx09","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aula ordinaria<br />Distribución flexible de mesas en pequeños grupos</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>adecce89-5440-4899-aafb-ebe74a93dbf4</odePageId>
+      <odeBlockId>block-1777486108815-f15e6mvsr</odeBlockId>
+      <blockName>Temporalización</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>adecce89-5440-4899-aafb-ebe74a93dbf4</odePageId>
+          <odeBlockId>block-1777486108815-f15e6mvsr</odeBlockId>
+          <odeIdeviceId>idevice-1777486108814-g7uqvq5vs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Número de sesiones:</strong><br />1 sesión de 55 minutos<br /><strong>Distribución del tiempo:</strong><br />Introducción y explicación inicial: 10 min<br />Elaboración de infografía interactiva: 15 min<br />Grabación breve de vídeo explicativo: 10 min<br />Cierre y autoevaluación: 5 min<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777486108814-g7uqvq5vs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Número de sesiones:</strong><br />1 sesión de 55 minutos<br /><strong>Distribución del tiempo:</strong><br />Introducción y explicación inicial: 10 min<br />Elaboración de infografía interactiva: 15 min<br />Grabación breve de vídeo explicativo: 10 min<br />Cierre y autoevaluación: 5 min<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>adecce89-5440-4899-aafb-ebe74a93dbf4</odePageId>
+      <odeBlockId>block-1777486190121-mao9bmkcz</odeBlockId>
+      <blockName>Productos que desarrollará el alumnado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>6</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>adecce89-5440-4899-aafb-ebe74a93dbf4</odePageId>
+          <odeBlockId>block-1777486190121-mao9bmkcz</odeBlockId>
+          <odeIdeviceId>idevice-1777486190120-puw2c6y94</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Producto 1</strong></p>
+<p>Infografía interactiva<br />El alumnado elaborará una infografía sencilla donde explique:</p>
+<p>Qué es proporcionalidad directa<br />Qué es proporcionalidad inversa<br />Diferencias entre ambas<br />Un ejemplo real de cada una<br />Un elemento interactivo (enlace, código QR o botón)</p>
+<p><br /></p>
+<p><strong>Producto 2 </strong><br />Vídeo breve explicativo<br />Cada grupo grabará un vídeo de 1-2 minutos donde expliquen un ejemplo cotidiano de proporcionalidad directa e inversa.</p>
+<p>Ejemplo:</p>
+<p>Más camisetas → más precio (directa)<br />Más personas trabajando → menos tiempo necesario (inversa)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777486190120-puw2c6y94","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Producto 1</strong></p>\n<p>Infografía interactiva<br />El alumnado elaborará una infografía sencilla donde explique:</p>\n<p>Qué es proporcionalidad directa<br />Qué es proporcionalidad inversa<br />Diferencias entre ambas<br />Un ejemplo real de cada una<br />Un elemento interactivo (enlace, código QR o botón)</p>\n<p><br /></p>\n<p><strong>Producto 2 </strong><br />Vídeo breve explicativo<br />Cada grupo grabará un vídeo de 1-2 minutos donde expliquen un ejemplo cotidiano de proporcionalidad directa e inversa.</p>\n<p>Ejemplo:</p>\n<p>Más camisetas → más precio (directa)<br />Más personas trabajando → menos tiempo necesario (inversa)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>adecce89-5440-4899-aafb-ebe74a93dbf4</odePageId>
+      <odeBlockId>block-1777486357482-uh7uastpa</odeBlockId>
+      <blockName>Herramientas tecnológicas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>7</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>adecce89-5440-4899-aafb-ebe74a93dbf4</odePageId>
+          <odeBlockId>block-1777486357482-uh7uastpa</odeBlockId>
+          <odeIdeviceId>idevice-1777486357481-m7hlxxuyr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Para el alumnado:</strong><br />Canva (infografía)<br />Genially o PowerPoint<br />Móvil o tablet para grabar vídeo<br />Aula virtual / Teams<br /><strong>Para el profesorado:</strong><br />Pizarra digital<br />Presentación de apoyo<br />Rúbrica de evaluación<br />Banco de recursos de EducaMadrid / INTEF<br /><strong>Recursos complementarios:</strong><br />Vídeos de YouTube educativos<br />Libro de texto digital<br />Fichas impresas de apoyo</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777486357481-m7hlxxuyr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Para el alumnado:</strong><br />Canva (infografía)<br />Genially o PowerPoint<br />Móvil o tablet para grabar vídeo<br />Aula virtual / Teams<br /><strong>Para el profesorado:</strong><br />Pizarra digital<br />Presentación de apoyo<br />Rúbrica de evaluación<br />Banco de recursos de EducaMadrid / INTEF<br /><strong>Recursos complementarios:</strong><br />Vídeos de YouTube educativos<br />Libro de texto digital<br />Fichas impresas de apoyo</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777485868317-4htqhumnm</odePageId>
+  <odeParentPageId>adecce89-5440-4899-aafb-ebe74a93dbf4</odeParentPageId>
+  <pageName>NODOS SECUNDARIOS</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>NODOS SECUNDARIOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777485868317-4htqhumnm</odePageId>
+      <odeBlockId>block-1777485875599-dxk7slg0j</odeBlockId>
+      <blockName>1. INTENCIÓN EDUCATIVA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777485868317-4htqhumnm</odePageId>
+          <odeBlockId>block-1777485875599-dxk7slg0j</odeBlockId>
+          <odeIdeviceId>idevice-1777485875596-5cruwye9i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Justificación de su desarrollo e impacto esperado</strong><br />La proporcionalidad es un contenido fundamental en matemáticas por su aplicación directa en la vida diaria. Esta SdA permite que el alumnado entienda su utilidad real, favoreciendo el aprendizaje significativo y el desarrollo del pensamiento lógico.</p>
+<p>Se espera mejorar:</p>
+<p>La resolución de problemas<br />La autonomía<br />El trabajo cooperativo<br />La competencia digital<br />La expresión oral y visual<br /> <br /><strong>Relación con los ODS y Retos del siglo XXI</strong><br /><strong>ODS relacionados</strong><br /><strong>ODS 4</strong>: Educación de calidad<br /><strong>ODS 8</strong>: Trabajo decente y crecimiento económico<br /><strong>ODS 12</strong>: Producción y consumo responsables<br /><strong>Retos del siglo XXI</strong><br />Resolución de problemas reales<br />Pensamiento crítico<br />Competencia digital<br />Trabajo colaborativo</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777485875596-5cruwye9i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Justificación de su desarrollo e impacto esperado</strong><br />La proporcionalidad es un contenido fundamental en matemáticas por su aplicación directa en la vida diaria. Esta SdA permite que el alumnado entienda su utilidad real, favoreciendo el aprendizaje significativo y el desarrollo del pensamiento lógico.</p>\n<p>Se espera mejorar:</p>\n<p>La resolución de problemas<br />La autonomía<br />El trabajo cooperativo<br />La competencia digital<br />La expresión oral y visual<br /> <br /><strong>Relación con los ODS y Retos del siglo XXI</strong><br /><strong>ODS relacionados</strong><br /><strong>ODS 4</strong>: Educación de calidad<br /><strong>ODS 8</strong>: Trabajo decente y crecimiento económico<br /><strong>ODS 12</strong>: Producción y consumo responsables<br /><strong>Retos del siglo XXI</strong><br />Resolución de problemas reales<br />Pensamiento crítico<br />Competencia digital<br />Trabajo colaborativo</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777485868317-4htqhumnm</odePageId>
+      <odeBlockId>block-1777485906155-y4iqr9j9c</odeBlockId>
+      <blockName>2. ELEMENTOS CURRICULARES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777485868317-4htqhumnm</odePageId>
+          <odeBlockId>block-1777485906155-y4iqr9j9c</odeBlockId>
+          <odeIdeviceId>idevice-1777485906153-bwr6zxfme</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Competencias clave</strong><br />CCL: Competencia en comunicación lingüística<br />STEM: Competencia matemática y científica<br />CD: Competencia digital<br />CPSAA: Personal, social y aprender a aprender<br />CE: Competencia emprendedora<br /> <br /><strong>Competencias específicas</strong><br />Resolver problemas matemáticos aplicando estrategias adecuadas.<br />Identificar relaciones entre magnitudes y representarlas.<br />Comunicar procesos y resultados matemáticos de forma clara.<br />Utilizar herramientas digitales en el aprendizaje matemático.<br /> <br /><strong>Saberes básicos</strong><br />Magnitudes y relaciones entre ellas<br />Razones y proporciones<br />Proporcionalidad directa<br />Proporcionalidad inversa<br />Resolución de problemas cotidianos<br /> <br /><strong>Criterios de evaluación</strong><br />Identifica correctamente si una situación es de proporcionalidad directa o inversa<br />Resuelve problemas sencillos aplicando ambos tipos<br />Explica oralmente el proceso seguido<br />Participa activamente en el trabajo cooperativo<br />Utiliza herramientas digitales de forma adecuada</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777485906153-bwr6zxfme","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Competencias clave</strong><br />CCL: Competencia en comunicación lingüística<br />STEM: Competencia matemática y científica<br />CD: Competencia digital<br />CPSAA: Personal, social y aprender a aprender<br />CE: Competencia emprendedora<br /> <br /><strong>Competencias específicas</strong><br />Resolver problemas matemáticos aplicando estrategias adecuadas.<br />Identificar relaciones entre magnitudes y representarlas.<br />Comunicar procesos y resultados matemáticos de forma clara.<br />Utilizar herramientas digitales en el aprendizaje matemático.<br /> <br /><strong>Saberes básicos</strong><br />Magnitudes y relaciones entre ellas<br />Razones y proporciones<br />Proporcionalidad directa<br />Proporcionalidad inversa<br />Resolución de problemas cotidianos<br /> <br /><strong>Criterios de evaluación</strong><br />Identifica correctamente si una situación es de proporcionalidad directa o inversa<br />Resuelve problemas sencillos aplicando ambos tipos<br />Explica oralmente el proceso seguido<br />Participa activamente en el trabajo cooperativo<br />Utiliza herramientas digitales de forma adecuada</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777485868317-4htqhumnm</odePageId>
+      <odeBlockId>block-1777486690888-kk9heltat</odeBlockId>
+      <blockName>3. Metodologías activas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777485868317-4htqhumnm</odePageId>
+          <odeBlockId>block-1777486690888-kk9heltat</odeBlockId>
+          <odeIdeviceId>idevice-1777486690886-xr163milg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Aprendizaje Cooperativo</strong><br />El alumnado trabaja en pequeños grupos para resolver retos y crear productos comunes.</p>
+<p>También se incorpora:</p>
+<p><strong>Aprendizaje Basado en Retos (ABR)</strong><br />A través de situaciones reales cercanas al alumnado.</p>
+<p>Esto favorece:</p>
+<p>Participación activa<br />Motivación<br />Inclusión<br />Atención a la diversidad</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777486690886-xr163milg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Aprendizaje Cooperativo</strong><br />El alumnado trabaja en pequeños grupos para resolver retos y crear productos comunes.</p>\n<p>También se incorpora:</p>\n<p><strong>Aprendizaje Basado en Retos (ABR)</strong><br />A través de situaciones reales cercanas al alumnado.</p>\n<p>Esto favorece:</p>\n<p>Participación activa<br />Motivación<br />Inclusión<br />Atención a la diversidad</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777485868317-4htqhumnm</odePageId>
+      <odeBlockId>block-1777486737614-r8m8ggmef</odeBlockId>
+      <blockName>4. Vinculación con proyectos y programas del centro</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777485868317-4htqhumnm</odePageId>
+          <odeBlockId>block-1777486737614-r8m8ggmef</odeBlockId>
+          <odeIdeviceId>idevice-1777486737612-e7m44wpq2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>PLEI </strong>(Plan de Lectura)<br />Mejora de la comprensión lectora mediante problemas matemáticos contextualizados.</p>
+<p><strong>PAD </strong>(Plan de Atención a la Diversidad)<br />Atención a la diversidad mediante agrupamientos flexibles y apoyos visuales.</p>
+<p><strong>PDC</strong> (Refuerzo de contenidos básicos)<br />Adaptación de tareas a distintos ritmos de aprendizaje.</p>
+<p><strong>Proyecto Digital de Centro</strong><br />Uso responsable de herramientas digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777486737612-e7m44wpq2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>PLEI </strong>(Plan de Lectura)<br />Mejora de la comprensión lectora mediante problemas matemáticos contextualizados.</p>\n<p><strong>PAD </strong>(Plan de Atención a la Diversidad)<br />Atención a la diversidad mediante agrupamientos flexibles y apoyos visuales.</p>\n<p><strong>PDC</strong> (Refuerzo de contenidos básicos)<br />Adaptación de tareas a distintos ritmos de aprendizaje.</p>\n<p><strong>Proyecto Digital de Centro</strong><br />Uso responsable de herramientas digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777485868317-4htqhumnm</odePageId>
+      <odeBlockId>block-1777486893382-y3oyi5csi</odeBlockId>
+      <blockName>5. Actividades complementarias y extraescolares</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777485868317-4htqhumnm</odePageId>
+          <odeBlockId>block-1777486893382-y3oyi5csi</odeBlockId>
+          <odeIdeviceId>idevice-1777486893380-wx12zmeei</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Concurso de infografías matemáticas.<br />Exposición en el pasillo del centro.<br />Participación en la Semana Cultural STEM.<br />Relación con actividades del Día Escolar de las Matemáticas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777486893380-wx12zmeei","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Concurso de infografías matemáticas.<br />Exposición en el pasillo del centro.<br />Participación en la Semana Cultural STEM.<br />Relación con actividades del Día Escolar de las Matemáticas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777485868317-4htqhumnm</odePageId>
+      <odeBlockId>block-1777486941024-gdjw9m9ck</odeBlockId>
+      <blockName>6. Atribución y fichero descargable</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777485868317-4htqhumnm</odePageId>
+          <odeBlockId>block-1777486941024-gdjw9m9ck</odeBlockId>
+          <odeIdeviceId>idevice-1777486941023-520jt3bkm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br />Esta Situación de Aprendizaje se publicará bajo licencia:</p>
+<p>Creative Commons Reconocimiento – Compartir Igual 4.0 (CC BY-SA 4.0)<br />Fichero descargable<br />Se añadirá el enlace para descarga en formato:</p>
+<p>.elp<br />(archivo fuente editable de eXeLearning)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777486941023-520jt3bkm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br />Esta Situación de Aprendizaje se publicará bajo licencia:</p>\n<p>Creative Commons Reconocimiento – Compartir Igual 4.0 (CC BY-SA 4.0)<br />Fichero descargable<br />Se añadirá el enlace para descarga en formato:</p>\n<p>.elp<br />(archivo fuente editable de eXeLearning)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
